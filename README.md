@@ -5,24 +5,23 @@
 
 - 🌱 I’m trying to learn **Python Audio analysis tools**
 <br><br>
-<h3 align="left">My Socials</h3>
+<h3 align="left">My Socials</h3><br>
 <p align="left">
 <a href="https://www.linkedin.com/in/bartosz-m-38a7082a4/" target="blank"><img align="center" margin-right="10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@MiLo-fq5zw" target="blank"><img align="center" margin-right="10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="milo" height="30" width="40" /></a>
 <a href="https://open.spotify.com/artist/544k0XEMshlOLnAYQYBB3j" target="blank"><img align="center" margin-right="10px" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="milo" height="30" width="40" /></a>
 <a href="https://soundcloud.com/miloiswavy" target="blank"><img align="center" margin-right="10px" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="milo" height="30" width="40" /></a>
-
 </p>
 
 <h2 align="center">Languages and Tools</h2><br>
 
 <p align="center">
     <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,py,cypress,selenium,php,mysql,jenkins,docker,linux,apple,ableton" />
+<img src="https://skillicons.dev/icons?i=git,py,cypress,selenium,js,php,mysql,java,maven,jenkins,docker,linux,apple,ableton" />
     </a>
 </p><br><br>
 <p align="center">
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xmilov3&" alt="xmilov3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xmilov3&" alt="xmilov3" /></p>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmilov3&show_icons=true&locale=en&layout=compact" alt="xmilov3" /></p>
 <br>
