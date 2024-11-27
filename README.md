@@ -13,7 +13,7 @@
 <a href="https://soundcloud.com/miloiswavy" target="blank"><img align="center" margin-right="10px" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="milo" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages and Tools</h2><br>
+<h2 align="center">Tech and Tools</h2><br>
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -21,9 +21,9 @@
     </a>
 </p><br><br>
 <p align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xmilov3&" alt="xmilov3" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=xmilov3&" alt="xmilov3" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmilov3&show_icons=true&locale=en&layout=compact" alt="xmilov3" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=xmilov3&show_icons=true&locale=en&layout=compact" alt="xmilov3" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xmilov3&show_icons=true&locale=en" alt="xmilov3" /></p>
 </p>
