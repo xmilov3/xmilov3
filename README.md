@@ -6,7 +6,7 @@
 
 - 🌱 I’m trying to learn **Python Audio analysis tools**
 
-<br><br>
+<br>
 
 <h3 align="left">My Socials</h3><br>
 <p align="left">
@@ -16,7 +16,7 @@
 <a href="https://soundcloud.com/miloiswavy" target="blank"><img align="center" margin-right="10px" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="milo" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Tech and Tools</h2><br>
+<h1 align="center">Tech and Tools</h1><br>
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -27,9 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xmilov3&show_icons=true&locale=en&layout=compact" alt="xmilov3" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xmilov3&show_icons=true&locale=en" alt="xmilov3" />
-</p>
+</p> !-->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xmilov3&" alt="xmilov3" />
